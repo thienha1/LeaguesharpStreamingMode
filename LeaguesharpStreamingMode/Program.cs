@@ -11,10 +11,8 @@ namespace LeaguesharpStreamingMode
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("streaming enabled 2");
             Assembly s = Assembly.Load(LeaguesharpStreamingMode.Properties.Resources.LeaguesharpStreamingModelib);
             s.GetType("LeaguesharpStreamingModelib.StreamingMode").GetMethod("Enable").Invoke(null, null);
-            Console.WriteLine("streaming enabled 1");
 
             AppDomain.CurrentDomain.DomainUnload += delegate
             {
