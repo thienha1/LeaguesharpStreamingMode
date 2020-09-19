@@ -1,0 +1,583 @@
+Attrox: 
+[
+	{Q -- SpellName: AttroxQWrapperCast|AttroxQ|AttroxQ2|AttroxQ3, Delay: 0.6}, 
+	{W -- SpellName: AttroxW, Delay: 0.25, Ememy Buff Name: attroxwbump|Knockback},
+	{E -- SpellName: AttroxE, Delay: 0.25}, 
+	{R -- SpellName: AttroxR, Delay: 0.25, My Buff Name: attroxrmovementspeedmanager}
+],
+Akali:	
+[
+	{Q -- SpellName: AkaliQ, Delay: 0.225, Speed: 1200, My Buff Name: akalipmaterialvfx, Ememy Buff Name: akaliqslow}, 
+	{W -- SpellName: AkaliW, Delay: 0.25, My Buff Name: AkaliWHaste|akaliwstealth}, 
+	{E -- SpellName: AkaliE|AkaliEb, Delay: 0.25, My Buff Name: AkaliE|akalieui, Ememy Buff Name: AkaliEMis}, 
+	{R -- SpellName: AkaliR|AkaliRb, Delay: 0.25|0.125}
+],
+Alistar:
+[
+	{Q -- SpellName: Pulverize, Delay: 0.25}, 
+	{W -- SpellName: Headbutt, Delay: 0.5}, 
+	{E -- SpellName: AlistarE, Delay: 0.25, My Buff Name: alistareattack, Ememy Buff Name: Stun}, 
+	{R -- SpellName: FerociousHowl, Delay: 0.25, My Buff Name: FerociousHowl}
+],
+Amumu:
+[
+	{Q -- SpellName: BandageToss, Delay: 0.25}, 
+	{W -- SpellName: AuraOfDespair, Delay: 0.3}, 
+	{E -- SpellName: Tantrum, Delay: 0.25}, 
+	{R -- SpellName: CurseoftheSadMummy, Delay: 0.27}
+],
+Annie:
+[
+	{Passive -- My Buff Name: anniepassiveprimed},
+	{Q -- SpellName: AnnieQ, Delay: 0.25}, 
+	{W -- SpellName: AnnieW, Delay: 0.25}, 
+	{E -- SpellName: AnnieE, Delay: 0.5}, 
+	{R -- SpellName: AnnieR, Delay: 0.27}
+],
+Aphelios:
+[
+	{Q -- SpellName: ApheliosGravitumQ, Delay: 0.25, Ememy Buff Name: ApheliosGravitumDebuff}, 
+	{R -- SpellName: ApheliosR, Delay: 0.5}
+],
+Ashe:
+[
+	{Passive -- Ememy Buff Name: ashepassiveslow},
+	{Q -- SpellName: AsheQAttack, Delay: 0.22}, 
+	{W -- SpellName: Volley, Delay: 0.25}, 
+	{E -- SpellName: AsheSpiritOfTheHawk, Delay: 0.5},
+	{R -- SpellName: EnchantedCrystalArrow, Delay: 0.25}
+],
+Blitzcrank:
+[
+	{Q -- SpellName: RocketGrab, Delay: 0.25, Ememy Buff Name: rocketgrab2}, 
+	{W -- SpellName: Overdrive, Delay: 0.4}, 
+	{E -- SpellName: PowerFist, Delay: 0.52},
+	{R -- SpellName: StaticField, Delay: 0.25}
+],
+Brand:
+[
+	{Q -- SpellName: BrandQ, Delay: 0.25, Ememy Buff Name: BrandAblaze}, 
+	{W -- SpellName: BrandW, Delay: 0.25}, 
+	{E -- SpellName: BrandE, Delay: 0.25},
+	{R -- SpellName: BrandR, Delay: 0.25}
+],
+Braum:
+[
+	{Q -- SpellName: BraumQMissile, Delay: 0.25, Ememy Buff Name: braumqslow|braummarkcounter}, 
+	{W -- SpellName: BraumW, Delay: 0.25}, 
+	{E -- SpellName: BraumE, Delay: 0.01},
+	{R -- SpellName: BraumRWrapper, Delay: 0.5}
+],
+Cassiopeia:
+[
+	{Q -- SpellName: CassiopeiaQ, Delay: 0.25}, 
+	{W -- SpellName: CassiopeiaW, Delay: 0.25, Ememy Buff Name: grounded}, 
+	{E -- SpellName: CassiopeiaE, Delay: 0.125},
+	{R -- SpellName: CassiopeiaR, Delay: 0.5}
+],
+Cho'gath:
+[
+	{Q -- SpellName: Rupture, Delay: 0.5}, 
+	{W -- SpellName: FeralScream, Delay: 0.5}, 
+	{E -- SpellName: VorpalSpikes, Delay: 0.38},
+	{R -- SpellName: Feast, Delay: 0.5}
+],
+Darius:
+[
+	{Passive -- My Buff Name: dariushemomax},
+	{Q -- SpellName: DariusCleave, Delay: 0.23}, 
+	{W -- SpellName: DariusNoxianTacticsONH, Delay: 0.37}, 
+	{E -- SpellName: DariusAxeGrabCone Delay: 0.25},
+	{R -- SpellName: DariusExecute, Delay: 0.3}
+],
+Ekko:
+[
+	{Passive -- My Buff Name: EkkoPassiveSpeed},
+	{Q -- SpellName: EkkoQ, Delay: 0.25}, 
+	{W -- SpellName: EkkoW, Delay: 0.25, Ememy Buff Name: slow}, 
+	{E -- SpellName: EkkoE, Delay: 0.25},
+	{R -- SpellName: EkkoR, Delay: 0.25}
+],
+Evelynn:
+[
+	{Q -- SpellName: EvelynnQ, Delay: 0.25}, 
+	{W -- SpellName: EvelynnW, Delay: 0.15, Ememy Buff Name: EvelynnW}, 
+	{E -- SpellName: EvelynnE|EvelynnE2, Delay: 0.25},
+	{R -- SpellName: EvelynnR, Delay: 0.35}
+],
+Fiddlestick:
+[
+	{Passive -- My Buff Name: FiddleSticksPassiveAnimationFreeze},
+	{Q -- SpellName: FiddleSticksQ, Delay: 0.35}, 
+	{W -- SpellName: FiddleSticksW, Delay: 0.25}, 
+	{E -- SpellName: FiddleSticksE, Delay: 0.4, Enemy Buff Name: FiddleSticksE},
+	{R -- SpellName: FiddleSticksR, Delay: 0}
+],
+Fiora:
+[
+	{Passive -- My Buff Name: fiorapassivespeed, Enemy Buff Name: fiorapassivereadysound},
+	{Q -- SpellName: FioraQ, Delay: 0}, 
+	{W -- SpellName: FioraW, Delay: 0.01}, 
+	{E -- SpellName: FioraE, Delay: 0.25, Enemy Buff Name: fioraeslow},
+	{R -- SpellName: FioraR, Delay: 0, Enemy Buff Name: fiorarmark}
+],
+Fizz:
+[
+	{Q -- SpellName: FizzQ, Delay: 0.25}, 
+	{W -- SpellName: FizzW, Delay: 0.25, Enemy Buff Name: fizzwdot}, 
+	{E -- SpellName: FizzE|FizzETwo, Delay: 0.25},
+	{R -- SpellName: FizzR, Delay: 0.25, Enemy Buff Name: fizzrcling}
+],
+Garen:
+[
+	{Q -- SpellName: GarenQ|GarenQAttack, Delay: 0.33}, 
+	{W -- SpellName: GarenW, Delay: 0.25}, 
+	{E -- SpellName: GarenE, Delay: 0.5},
+	{R -- SpellName: GarenR, Delay: 0.435}
+],
+Hecarim:
+[
+	{Q -- SpellName: HecarimRapidSlash, Delay: 0.5}, 
+	{W -- SpellName: HecarimW, Delay: 0.43, My Buff Name: HecarimW, Enemy Buff Name: hecarimefilelifeleech}, 
+	{E -- SpellName: HecarimRamp|HecarimRampAttack, Delay: 0.25, My Buff Name: hecarimrampspeed},
+	{R -- SpellName: HecarimUlt, Delay: 0.435, My Buff Name: hecarimultsound}
+],
+Nasus:
+[
+	{Q -- SpellName: NasusQ|NasusQAttack, Delay: 0.52|0.24, My Buff Name: NasusQ}, 
+	{W -- SpellName: NasusW, Delay: 0.25, Enemy Buff Name: NasusW}, 
+	{E -- SpellName: NasusE, Delay: 0.25, Enemy Buff Name: nasusearmorreduction},
+	{R -- SpellName: NasusR, Delay: 0.25, My Buff Name: NasusR}
+],
+JarvanIV:
+[
+	{Passive -- SpellName: JarvanIVMartialCadenceAttack},
+	{Q -- SpellName: JarvanIVDragonStrike, Delay: 0.4, Enemy Buff Name: jarvanivdragonstrikedebuff|jarvanivdragonstrikesound}, 
+	{W -- SpellName: JarvanIVGoldenAegis, Delay: 0.125, My Buff Name: JarvanIVGoldenAegis}, 
+	{E -- SpellName: JarvanIVDemacianStandard, Delay: 0.115, My Buff Name: jarvanivdemacianstandardbuff, Enemy Buff Name: JarvanIVDemacianStandard},
+	{R -- SpellName: JarvanIVCataclysm, Delay: 0.25, My Buff Name: jarvanivcataclysmsound, Enemy Buff Name: globalwallmarker}
+],
+Jax:
+[
+	{Passive -- SpellName: jaxrelentlessassaultas},
+	{Q -- SpellName: JaxLeapStrike, Delay: 0.25}, 
+	{W -- SpellName: JaxEmpowerTwo, Delay: 0.52, My Buff Name: JaxEmpowerTwo}, 
+	{E -- SpellName: JaxCounterStrike, Delay: 0.5, My Buff Name: JaxCounterStrike},
+	{R -- SpellName: JaxRelentlessAssault, Delay: 0.31, My Buff Name: jaxrelentlessassaultspeed}
+],
+Jhin:
+[
+	{Passive -- SpellName: jhinpassivehaste|jhinpassiveattackbuff|JhinPassiveReload},
+	{Q -- SpellName: JhinQ, Delay: 0.25, Enemy Buff Name: jhinespotteddebuff}, 
+	{W -- SpellName: JhinW, Delay: 0.75, Ememy Buff Name: jhinespotteddebuff|JhinW}, 
+	{E -- SpellName: JhinE, Delay: 0.25, Ememy Buff Name: JhinETrap|stealth|jhinrsight},
+	{R -- SpellName: JhinR|JhinRShot, Delay: 1, Ememy Buff Name: jhinespotteddebuff|jhinrslow}
+],
+Jinx:
+[
+	{Passive -- SpellName: jinxpassivekillmovementspeed},
+	{Q -- SpellName: JinxQ, Delay: 0.25, My Buff Name: JinxQ|jinxqicon}, 
+	{W -- SpellName: JinxWMissile, Delay: 0.55, Ememy Buff Name: jinxwsight}, 
+	{E -- SpellName: JinxE, Delay: 0.25, Ememy Buff Name: JinxEFireBurn, JinxEMine},
+	{R -- SpellName: JinxR, Delay: 0.6, My Buff Name: JinxR}
+],
+Janna
+[
+	{Q -- SpellName: HowlingGale, Delay: 0.5, My Buff Name: HowlingGale, Ememy Buff Name: HowlingGaleSpell}, 
+	{W -- SpellName: SowTheWind, Delay: 0.245, My Buff Name: SowTheWind, Ememy Buff Name: slow|tailwind}, 
+	{E -- SpellName: EyeOfTheStorm, Delay: 0.25, My Buff Name: EyeOfTheStorm, Ememy Buff Name: EyeOfTheStorm},
+	{R -- SpellName: ReapTheWhirlwind, Delay: 0.001, My Buff Name: ReapTheWhirlwind, Ememy Buff Name: jannamoveaway}
+],
+Heimerdinger:
+[
+	{Q -- SpellName: HeimerdingerQ|HeimerdingerQUlt, Delay: 0.25, My Buff Name: HeimerdingerQVO}, 
+	{W -- SpellName: HeimerdingerW|HeimerdingerWUlt, Delay: 0.25}, 
+	{E -- SpellName: HeimerdingerE|HeimerdingerEUlt, Delay: 0.25, My Buff Name: HeimerdingerREVO},
+	{R -- SpellName: HeimerdingerR, Delay: 0.38, My Buff Name: HeimerdingerR}
+],
+Olaf:
+[
+	{Passive -- My Buff Name: OlafBerzerkerRage}
+	{Q -- SpellName: OlafAxeThrowCast, Delay: 0.25, Enemy Buff Name: olafslow}, 
+	{W -- SpellName: OlafFrenziedStrikes, Delay: 0.25, My Buff Name: OlafFrenziedStrikes}, 
+	{E -- SpellName: OlafRecklessStrike, Delay: 0.25},
+	{R -- SpellName: OlafRagnarok, Delay: 0.25, My Buff Name: olafranarokspeed|OlafRagnarokPassiveBuff}
+],
+Swain:
+[
+	{Q -- SpellName: SwainQ, Delay: 0.25}, 
+	{W -- SpellName: SwainW, Delay: 0.25, Enemy Buff Name: slow}, 
+	{E -- SpellName: SwainE, Delay: 0.25, Enemy Buff Name: swaineroot},
+	{R -- SpellName: SwainR, Delay: 0.5, My Buff Name: swainrhealcounter, Enemy Buff Name: swainrsoulburn}
+],
+Poppy:
+[
+	{Passive -- SpellName: PoppyPassiveAttack, My Buff Name: poppypassivebuff|poppypassiveshield, Enemy Buff Name: PoppyPassiveBounce},
+	{Q -- SpellName: PoppyQSpell, Delay: 0.33, Enemy Buff Name: poppyqslow}, 
+	{W -- SpellName: PoppyW, Delay: 0.5, My Buff Name: poppywzone}, 
+	{E -- SpellName: PoppyE, Delay: 0.5, My Buff Name: poppyestunvo, Enemy Buff Name: poppyepushenemy},
+	{R -- SpellName: PoppyR|PoppyRSpell|PoppyRSpellInstant, Delay: 0|0.33, My Buff Name: poppyrswingvo, Enemy Buff Name: poppyrknockup}
+],
+Teemo:
+[
+	{Passive -- SpellName: camouflagestealth}
+	{Q -- SpellName: BlindingDart, Delay: 0.25}, 
+	{W -- SpellName: MoveQuick, Delay: 0.52, My Buff Name: teemomovequickspeed}, 
+	{E -- SpellName: ToxicShotAttack, Delay: 0.25},
+	{R -- SpellName: TeemoRCast, Delay: 0.25, Enemy Buff Name: bantamtrapslow}
+],
+TahmKench:	
+[
+	{Passive -- SpellName: tahmkenchpdebuffcounter|tahmkenchpdevourable}
+	{Q -- SpellName: TahmKenchQ, Delay: 0.25, Enemy Buff Name: tahmkenchqslow}, 
+	{W -- SpellName: TahmKenchW|TahmKenchWCastTimeAndAnimation, Delay: 0.25, My Buff Name: tahmkenchwhasdevouredtarget, Ememy Buff Name: tahmkenchwdevoured},
+	{E -- SpellName: TahmKenchE, Delay: 0.25, My Buff Name: tahmkencheshield|tahmkenchwheal}, 
+	{R -- SpellName: TahmKenchNewR, Delay: 0.25, My Buff Name: TahmKenchNewR|tahmkenchrcasting}
+],
+Tristana:
+[
+	{Q -- SpellName: TristanaQ, Delay: 0.5, My Buff Name: TristanaQ}, 
+	{W -- SpellName: TristanaW, Delay: 0.25, My Buff Name: tristanawtrailsound, Enemy Buff Name: tristanawslow}, 
+	{E -- SpellName: TristanaE, Delay: 0.21, My Buff Name: tristanaecharge|tristanaechargesound},
+	{R -- SpellName: TristanaR, Delay: 0.25, My Buff Name: tristanavor, Enemy Buff Name: TristanaR}
+],
+Veigar:
+[
+	{Q -- SpellName: VeigarBalefulStrike, Delay: 0.25}, 
+	{W -- SpellName: VeigarDarkMatterCastLockout, Delay: 0.25}, 
+	{E -- SpellName: VeigarEventHorizon, Delay: 0.25, Enemy Buff Name: veigareventhorizonstun},
+	{R -- SpellName: VeigarR, Delay: 0.25, Enemy Buff Name: VeigarR}
+],
+Karma:
+[
+	{Q -- SpellName: KarmaQ, Delay: 0.25, My Buff Name: KarmaMantra, Enemy Buff Name: KarmaQMissileMantraSlow}, 
+	{W -- SpellName: KarmaSpiritBind, Delay: 0.25, My Buff Name: KarmaMantra, Enemy Buff Name: globaltruesight}, 
+	{E -- SpellName: KarmaSolKimShield, Delay: 0.25, Enemy Buff Name: veigareventhorizonstun},
+	{R -- SpellName: KarmaMantra, Delay: 0.25, My Buff Name: KarmaMantra}
+],
+Kayle:
+[
+	{Passive -- My Buff Name: KaylePassive|kaylepassiverank2|kayleenragecounter|kayleenrage|kaylepassiveceremony|kaylepassiverank3}
+	{Q -- SpellName: KayleQ, Delay: 0.19, Enemy Buff Name: KayleQShred}, 
+	{W -- SpellName: KayleWHeal, Delay: 0.25, My Buff Name: KayleW, Enemy Buff Name: KayleW}, 
+	{E -- SpellName: KayleE|KayleEAttack|KayleEAttackUpgrade, Delay: 0|0.29|0.19, My Buff Name: KayleE|KayleEPassive},
+	{R -- SpellName: KayleR, Delay: 1.5, My Buff Name: KayleR, Enemy Buff Name: KayleR}
+],
+Kindred:
+[
+	{Q -- SpellName: KindredQ, Delay: 0.01, My Buff Name: kindredqasbuff}, 
+	{W -- SpellName: KindredW, Delay: 0.25, My Buff Name: kindredwclonebuffvisible}, 
+	{E -- SpellName: KindredE|KindredBasicAttackOverrideLightbombFinal, Delay: 0.25|0.22, Enemy Buff Name: KindredERefresher},
+	{R -- SpellName: KindredFakeCastTimeSpell, Delay: 0.25, My Buff Name: KindredRNoDeathBuff, Enemy Buff Name: KindredRNoDeathBuff}
+],
+Malphite:
+[
+	{Passive -- SpellName: malphiteshielddeffect|malphiteshieldremoval}
+	{Q -- SpellName: SeismicShard, Delay: 0.25, My Buff Name: SeismicShard, Enemy Buff Name: SeismicShardBuff}, 
+	{W -- SpellName: Obduracy|ObduracyAttack, Delay: 0.25|0.3, My Buff Name: MalphiteThunderclap|MalphiteCleave}, 
+	{E -- SpellName: Landslide, Delay: 0.24, Enemy Buff Name: landslidedebuff},
+	{R -- SpellName: UFSlash, Delay: 0.5, Enemy Buff Name: UnstoppableForceStun}
+],
+LeeSin:
+[
+	{Passive -- SpellName: blindmonkpassive_cosmetic}
+	{Q -- SpellName: BlindMonkQOne|BlindMonkQTwo, Delay: 0.25, My Buff Name: blindmonkqmanager|BlindMonkQTwoDash, Enemy Buff Name: BlindMonkQOne}, 
+	{W -- SpellName: BlindMonkWOne|BlindMonkWTwo, Delay: 0.5|0.25, My Buff Name: blindmonkwoneshield|blindmonkwmanager|BlindMonkWTwo}, 
+	{E -- SpellName: BlindMonkEOne|BlindMonkETwo, Delay: 0.25, My Buff Name: blindmonkemanager, Enemy Buff Name: BlinkMonkEOne|BlinkMonkETwoMissile},
+	{R -- SpellName: BlindMonkRKick, Delay: 0.25, Enemy Buff Name: BlindMonkRKick|blindmonkrroot}
+],
+Kayn:
+[
+	-- Type: Normal --
+	{Q -- SpellName: KaynQ, Delay: 0.15}, 
+	{W -- SpellName: KaynW, Delay: 0.55, Enemy Buff Name: kaynwslow}, 
+	{E -- SpellName: KaynE, Delay: 0.5, My Buff Name: KaynE},
+	{R -- SpellName: KaynR|KaynRJumpOut, Delay: 0.1, My Buff Name: kaynrwraithform|KaynRSpellPassive, Enemy Buff Name: kaynrhost|kaynrenemymark}
+	-- Type: Shadow --
+	{Q -- SpellName: KaynQ, Delay: 0.15}, 
+	{W -- SpellName: KaynAssW, Delay: 0.6, Enemy Buff Name: kaynwslow}, 
+	{E -- SpellName: KaynE, Delay: 0.5, My Buff Name: KaynE},
+	{R -- SpellName: KaynR|KaynRJumpOut, Delay: 0.1, My Buff Name: kaynrwraithform|KaynRSpellPassive, Enemy Buff Name: kaynrhost|kaynrenemymark}
+	-- Type: Darkin --
+	{Q -- SpellName: KaynQ, Delay: 0.15}, 
+	{W -- SpellName: KaynW, Delay: 0.55, Enemy Buff Name: kaynwknockup}, 
+	{E -- SpellName: KaynE, Delay: 0.5, My Buff Name: KaynE},
+	{R -- SpellName: KaynR|KaynRJumpOut, Delay: 0.1, My Buff Name: kaynrwraithform|KaynRSpellPassive, Enemy Buff Name: kaynrhost|kaynrenemymark}
+],
+Kled
+[
+	{Passive -- My Buff Name: kleddismountdash|kledmountreturn|kledremountdash}
+	-- Type: Ride Skaarl --
+	{Q -- SpellName: KledQ, Delay: 0.25, Enemy Buff Name: kledqvisionshare|kledqbump}, 
+	{W -- SpellName: KledWAttack1|KledWAttack2|KledWAttack3|KledWAttack4, Delay: 0.1, My Buff Name: KledW|kledwactive}, 
+	{E -- SpellName: KledEDash, Delay: 0.5, My Buff Name: KledE2|kledespeedbuff, Enemy Buff Name: klede2target},
+	{R -- SpellName: KledR, Delay: 0.5, My Buff Name: KledRDash|KledRChargeAllySpeedBuff|kledrshieldcounter|kledchargeshield, Enemy Buff Name: kledrbump}
+	-- Type: Walking --
+	{Q -- SpellName: KledRiderQ, Delay: 0.25}, 
+	{W -- SpellName: KledRiderWAttack1|KledRiderWAttack2|KledRiderWAttack3|KledRiderWAttack4, Delay: 0.1, My Buff Name: KledW|kledwactive}
+],
+Pantheon:	
+[
+	{Passive -- My Buff Name: PantheonPassiveCounter|PantheonPassiveReady},
+	{Q -- SpellName: PantheonQ|PantheonQTap|PantheonQMissile, Delay: 0.25, My Buff Name: pantheonspearglowvfx, Ememy Buff Name: PantheonQSlow}, 
+	{W -- SpellName: PantheonW|PantheonWEmpoweredAttack, Delay: 0.125},
+	{E -- SpellName: PantheonE|PantheonEShieldSlam, Delay: 0|0.25, My Buff Name: PantheonE|pantheonefacinglock}, 
+	{R -- SpellName: PantheonR, Delay: 0.1, My Buff Name: PantheonR}
+],
+Pyke:	
+[
+	{Q -- SpellName: PykeQ|PykeQMelee|PykeQRange, Delay: 0|0.25|0.2, My Buff Name: PykeQ, Ememy Buff Name: PykeQMelee|PykeQRange}, 
+	{W -- SpellName: PykeW, Delay: 0.5, My Buff Name: PykeW|globalcamouflage, Ememy Buff Name: globalcamouflageviewer},
+	{E -- SpellName: PykeE, Delay: 0.275, Ememy Buff Name: PykeEMissile}, 
+	{R -- SpellName: PykeR, Delay: 0.5}
+],
+Talon:	
+[
+	{Passive -- Enemy Buff Name: TalonPassiveStack|TalonPassiveAttack|TalonPassiveBleed},
+	{Q -- SpellName: TalonQDashAttack|TalonQAttack, Delay: 0.5|0.25}, 
+	{W -- SpellName: TalonW, Delay: 0.25, Ememy Buff Name: talonwslow},
+	{E -- SpellName: TalonE|TalonE2, Delay: 0.25, My Buff Name: TalonEHop}, 
+	{R -- SpellName: TalonR|TalonRToggle, Delay: 0.25|0.52, My Buff Name: TalonRStealth}
+],
+Tryndamere:	
+[
+	{Q -- SpellName: TryndamereQ, Delay: 0.5, My Buff Name: bloodlustparticle}, 
+	{W -- SpellName: TryndamereW, Delay: 0.25, Ememy Buff Name: tryndamerewslow|TryndamereW},
+	{E -- SpellName: slash, Delay: 0.5}, 
+	{R -- SpellName: UndyingRage, Delay: 0.5, My Buff Name: UndyingRage}
+],
+Neeko:
+[
+	{Q -- SpellName: NeekoQ, Delay: 0.25}, 
+	{W -- SpellName: NeekoW, Delay: 0.5, My Buff Name: NeekoWPassive|neekowhaste, Ememy Buff Name: neekowhaste},
+	{E -- SpellName: NeekoE, Delay: 0.25, Ememy Buff Name: neekoeroot}, 
+	{R -- SpellName: NeekoRDummySpell, Delay: 0.5, My Buff Name: NeekoR|neekor2|neekorshield, Ememy Buff Name: neekorstun}
+],
+MonkeyKing:	
+[
+	{Passive -- My Buff Name: monkeykingpassivestack},
+	{Q -- SpellName: MonkeyKingDoubleAttack|MonkeyKingQAttack, Delay: 0.5|0.215, My Buff Name: MonkeyKingDoubleAttack, Ememy Buff Name: monkeykingdoubleattackdebuff}, 
+	{W -- SpellName: MonkeyKingDecoy, Delay: 0.25, My Buff Name: monkeykingdecoystealth|MonkeyKingPassive},
+	{E -- SpellName: MonkeyKingNimbus, Delay: 0.5, My Buff Name: MonkeyKingNimbusKick|monkeykingnimbusas}, 
+	{R -- SpellName: MonkeyKingSpinToWin|MonkeyKingSpinToWinLeave, Delay: 0.5, My Buff Name: monkeykingspinrecast|MonkeyKingSpinToWin, Ememy Buff Name: monkeykingspinknockup}
+],
+MissFortune:
+[
+	{Passive -- SpellName: MissFortunePassiveAttack|MissFortunePassiveAttack2}
+	{Q -- SpellName: MissFortuneRicochetShot, Delay: 0.25}, 
+	{W -- SpellName: MissFortuneViciousStrikes, Delay: 0, My Buff Name: missfortunestrutstacks|MissFortuneViciousStrikes},
+	{E -- SpellName: MissFortuneScattershot, Delay: 0.25, Ememy Buff Name: missfortunescattershotslow}, 
+	{R -- SpellName: MissFortuneBulletTime, Delay: 0.001}
+],
+Morgana:	
+[
+	{Passive -- My Buff Name: morganapassivehealvfx}
+	{Q -- SpellName: MorganaQ, Delay: 0.25, Ememy Buff Name: MorganaQ}, 
+	{W -- SpellName: MorganaW, Delay: 0.25, My Buff Name: MorganaW, Ememy Buff Name: morganawdamage},
+	{E -- SpellName: MorganaE, Delay: 0.51, My Buff Name: MorganaE}, 
+	{R -- SpellName: MorganaR, Delay: 0.35, My Buff Name: MorganaR|morganarhaste, Ememy Buff Name: morganardebuff|globaltruesight}
+],
+Master Yi:	
+[
+	{Passive -- My Buff Name: doublestrikestacks|doublestrikes}
+	{Q -- SpellName: AlphaStrike, Delay: 0.25, My Buff Name: AlphaStrike}, 
+	{W -- SpellName: Meditate, Delay: 0, My Buff Name: Meditate},
+	{E -- SpellName: WujuStyle, Delay: 0.38, My Buff Name: wujustylesuperchargedvisual|wujustylevisual}, 
+	{R -- SpellName: Highlander, Delay: 0.4, My Buff Name: HighlanderSpellPassive|Highlander}
+],
+Maokai:	
+[
+	{Q -- SpellName: MaokaiQ, Delay: 0.375}, 
+	{W -- SpellName: MaokaiW, Delay: 0.25, Ememy Buff Name: maokaiwroot},
+	{E -- SpellName: MaokaiE|MaokaiEMissile, Delay: 0.25}, 
+	{R -- SpellName: MaokaiR, Delay: 0.5, Ememy Buff Name: maokairroot}
+],
+Shaco:	
+[
+	{Q -- SpellName: Deceive, Delay: 0.25, My Buff Name: Deceive}, 
+	{W -- SpellName: JackInTheBox, Delay: 0.25, Ememy Buff Name: JackInTheBox},
+	{E -- SpellName: TwoShivPoison, Delay: 0.25}, 
+	{R -- SpellName: HallucinateFull, Delay: 0.25, Ememy Buff Name: shacortinybox}
+],
+Skarner:
+[
+	{Q -- SpellName: SkarnerVirulentSlash, Delay: 0.25, My Buff Name: SkarnerVirulentSlash}, 
+	{W -- SpellName: SkarnerExoskeleton, Delay: 0.25, My Buff Name: SkarnerExoskeleton},
+	{E -- SpellName: SkarnerFractureMissile, Delay: 0.25, My Buff Name: skarnerpassivecrystalsmax, Ememy Buff Name: skarnerfractureslow}, 
+	{R -- SpellName: SkarnerImpale, Delay: 0.25, Ememy Buff Name: SkarnerImpale}
+],
+Shen:	
+[
+	{Passive -- My Buff Name: shenpassiveshield},
+	{Q -- SpellName: ShenQ, Delay: 0.5, My Buff Name: shenqtransmitter|shenqbuffweak}, 
+	{W -- SpellName: ShenW, Delay: 0.5, My Buff Name: ShenWBuff},
+	{E -- SpellName: ShenE, Delay: 0.5, My Buff Name: shenedash}, 
+	{R -- SpellName: ShenR, Delay: 0, My Buff Name: shenrchannelbuffbar, Ememy Buff Name(Ally): shenrshield}
+],
+Sejuani:	
+[
+	{Q -- SpellName: SejuaniQ, Delay: 0.25, Ememy Buff Name: sejuaniqknockup}, 
+	{W -- SpellName: SejuaniW|SejuaniWDummy, Delay: 0, Ememy Buff Name: sejuanislow},
+	{E -- SpellName: SejuaniE2, Delay: 0.5, Ememy Buff Name: SejuaniEMarker|SejuaniEMarkerMax|sejuanistun}, 
+	{R -- SpellName: SejuaniR, Delay: 0.25, Ememy Buff Name: SejuaniECD|sejuanistun}
+],
+Qiyana:	
+[
+	{Q -- SpellName: QiyanaQ|QiyanaQ_Rock|QiyanaQ_Water|QiyanaQ_Grass, Delay: 0.25, My Buff Name: QiyanaQ_Rock|qiyanaq_grass_stealth_buff, Ememy Buff Name: qiyanapassivecd_rock|qiyanapassivecd_water|qiyanapassivecd_grass}, 
+	{W -- SpellName: QiyanaW, Delay: 0.5, My Buff Name: QiyanaWPassive|qiyanawenchantedbuffhaste|qiyanawenchantedbuff},
+	{E -- SpellName: QiyanaE, Delay: 0.25}, 
+	{R -- SpellName: QiyanaR, Delay: 0.25, My Buff Name: qiyanalockfacing, Ememy Buff Name: qiyanarstun|qiyanarknockback}
+],
+Renekton:	
+[
+	{Passive -- My Buff Name: renektonrageready}
+	{Q -- SpellName: RenektonCleave, Delay: 0.25}, 
+	{W -- SpellName: RenektonPreExecute|RenektonExecute|RenektonSuperExecute, Delay: 0.52|0.2|0.18, My Buff Name: RenektonPreExecute},
+	{E -- SpellName: RenektonSliceAndDice|RenektonDice, Delay: 0.25, My Buff Name: renektonsliceanddicedelay, Ememy Buff Name: renektonsliceanddicedebuff}, 
+	{R -- SpellName: RenektonReignOfTheTyrant, Delay: 0.25, My Buff Name: RenektonReignOfTheTyrant}
+],
+Riven:	
+[
+	{Passive -- My Buff Name: RivenPassiveAABoost}
+	{Q -- SpellName: RivenTriCleave, Delay: 0.25, My Buff Name: riventricleavesoundone|riventricleavesoundtwo|riventricleavesoundthree, Ememy Buff Name: rivenknockback}, 
+	{W -- SpellName: RivenMartyr, Delay: 0.26},
+	{E -- SpellName: RivenFeint, Delay: 0.5, My Buff Name: RivenFeint}, 
+	{R -- SpellName: RivenFengShuiEngine|RivenIzunaBlade, Delay: 0.25, My Buff Name: rivenwindslashready}
+],
+Rammus:	
+[
+	{Q -- SpellName: PowerBall, Delay: 0, My Buff Name: PowerBall}, 
+	{W -- SpellName: DefensiveBallCurl|DefensiveBallCurlCancel, Delay: 0.25, My Buff Name: DefensiveBallCurl},
+	{E -- SpellName: PuncturingTaunt, Delay: 0.25, My Buff Name: puncturingtauntattackspeed}, 
+	{R -- SpellName: Tremors2, Delay: 0.25, My Buff Name: Tremors2, Ememy Buff Name: tremorsslow}
+],
+Ryze:	
+[
+	{Q -- SpellName: RyzeQ, Delay: 0.25, My Buff Name: RyzeQ|RyzeQMS}, 
+	{W -- SpellName: RyzeW, Delay: 0.25, Ememy Buff Name: RyzeW|ryzewroot},
+	{E -- SpellName: RyzeE, Delay: 0.25, Ememy Buff Name: RyzeE}, 
+	{R -- SpellName: RyzeR, Delay: 0, My Buff Name: RyzeRChannel}
+],
+Udyr:	
+[
+	{Q -- SpellName: UdyrTigerStance, Delay: 0.25, My Buff Name: udyrtigerpunch, Ememy Buff Name: UdyrTigerPunchBleed}, 
+	{W -- SpellName: UdyrTurtleStance, Delay: 0.25, My Buff Name: UdyrTurtleStance},
+	{E -- SpellName: UdyrBearStance, Delay: 0.25, My Buff Name: udyrbearactivation|UdyrBearStance}, 
+	{R -- SpellName: UdyrPhoenixStance, Delay: 0.25, My Buff Name: UdyrPhoenixStance}
+],
+Sion:	
+[
+	{Q -- SpellName: SionQ, Delay: 0, Speed: 1500, My Buff Name: SionQ|sionqsoundafterhalf, Ememy Buff Name: sionqsoundbeforehalfhit|Stun, Range: 450}, 
+	{W -- SpellName: SionW|SionWDetonate, Delay: 0.25, Range: 500, My Buff Name: sionwsoundshield|sionwsoundexplosion, Ememy Buff Name: sionwsoundhit},
+	{E -- SpellName: SionE, Delay: 0.25, Ememy Buff Name: sionesoundminioncolide}, 
+	{R -- SpellName: SionR, Delay: 0.75, My Buff Name: sionrsoundfireball|sionrsoundexplosion|Stun, Ememy Buff Name: sionrslow|Stun, Range: 1000, Width: 225}
+],
+Sylas:	
+[
+	{Passive -- My Buff Name: SylasPassiveAttack}
+	{Q -- SpellName: SylasQ, Delay: 0.4}, 
+	{W -- SpellName: SylasW, Delay: 0.15},
+	{E -- SpellName: SylasE|SylasE2, Delay: 0.25, My Buff Name: sylasemanager, Ememy Buff Name: sylaseknockup}, 
+	{R -- SpellName: SylasR, Delay: 0.25}
+],
+Rumble:	
+[
+	{Passive -- My Buff Name: rumbledangerzonebuff|rumbleoverheatsound}
+	{Q -- SpellName: RumbleFlameThrowerVO|RumbleFlameThrowerVODangerZone, Delay: 0.25, My Buff Name: RumbleFlameThrower}, 
+	{W -- SpellName: RumbleShieldVO|RumbleShieldVODangerZone, Delay: 0.25, My Buff Name: rumbleshieldbuff|RumbleShield},
+	{E -- SpellName: RumbleGrenade|RumbleGrenadeVO|RumbleGrenadeVODangerZone, Delay: 0.25, Ememy Buff Name: rumblegrenadeslow}, 
+	{R -- SpellName: RumbleCarpetBombDummy, Delay: 0.58, Ememy Buff Name: rumblecarpetbombslow}
+],
+Trundle:	
+[
+	{Q -- SpellName: TrundleTrollSmash|TrundleQ, Delay: 0.52|0.2, My Buff Name: TrundleTrollSmash|TrundleQ, Ememy Buff Name: trundleqslow}, 
+	{W -- SpellName: trundledesecrate, Delay: 0.25, My Buff Name: trundledesecratebuffs},
+	{E -- SpellName: TrundleCircle, Delay: 0.25, Ememy Buff Name: trundlecircleslow|trundlewallbounce}, 
+	{R -- SpellName: TrundlePain, Delay: 0.25, My Buff Name: trundlepainbuff, Ememy Buff Name: TrundlePain}
+],
+Twisted Fate:	
+[
+	{Q -- SpellName: WildCards, Delay: 0.25}, 
+	{W -- SpellName: PickACard|BlueCardLock|BlueCardPreAttack|RedCardLock|RedCardPreAttack|GoldCardLock|GoldCardPreAttack, Delay: 0.425, My Buff Name: pickacard_tracker|BlueCardPreAttack|RedCardPreAttack|GoldCardPreAttack, Ememy Buff Name: cardmasterslow(Red Card)},
+	{E -- My Buff Name: cardmasterstackholder|cardmasterstackparticle}, 
+	{R -- SpellName: Destiny|Gate, Delay: 0.25|0.5, My Buff Name: DestinySpellPassive, Ememy Buff Name: Destiny|twistedfategatetarget}
+],
+Warwick:	
+[
+	{Q -- SpellName: WarwickQ, Delay: 0, My Buff Name: WarwickQ}, 
+	{W -- SpellName: WarwickW|WarwickWActiveHit, Delay: 0.5, My Buff Name: warwickwp, Ememy Buff Name: warwickwpassivevfx|warwickwenemy},
+	{E -- SpellName: WarwickE, Delay: 0.25, My Buff Name: WarwickE|warwicke2, Ememy Buff Name: warwickeinternalfearbuff}, 
+	{R -- SpellName: WarwickR|WarwickRChannel, Delay: 0.001|0.1, My Buff Name: WarwickR|warwickrsound|warwickrmiss}
+],
+Varus:	
+[
+	{Q -- SpellName: VarusQ, Delay: 0, My Buff Name: VarusQ|VarusQLaunch|varusqempoweredfired}, 
+	{W -- SpellName: VarusW, Delay: 0.25, Ememy Buff Name: VarusWDebuff},
+	{E -- SpellName: VarusEMissileDummy6, Delay: 0.25, Ememy Buff Name: varuseslow}, 
+	{R -- SpellName: VarusR, Delay: 0.24, Ememy Buff Name: varusrrootend|VarusRToolTip}
+],
+Vayne:	
+[
+	{Q -- SpellName: VayneTumble|VayneTumbleAttack, Delay: 0.25, My Buff Name: vaynetumblebonus|vaynetumblefade}, 
+	{W -- My Buff Name: VayneSilveredBolts, Ememy Buff Name: VayneSilveredDebuff},
+	{E -- SpellName: VayneCondemnMissile, Delay: 0.25}, 
+	{R -- SpellName: VayneInquisition|VayneUltAttack, Delay: 0.4|0.22, My Buff Name: VayneInquisition}
+],
+Volibear:	
+[
+	{Passive -- My Buff Name: VolibearPStackTracker|volibearpapplicator},
+	{Q -- SpellName: VolibearQ|VolibearQAttack, Delay: 0|0.2, My Buff Name: VolibearQ}, 
+	{W -- SpellName: VolibearW, Delay: 0.25, Ememy Buff Name: VolibearW},
+	{E -- SpellName: VolibearE, Delay: 0.25, My Buff Name: VolibearEShield, Ememy Buff Name: VolibearESlow}, 
+	{R -- SpellName: VolibearR|VolibearRTransitionAttack, Delay: 0, My Buff Name: volibearrshrinkmanager, Ememy Buff Name: VolibearRTowerDisable|VolibearRImpactSlow}
+],
+Viktor
+[
+	-- Type: Normal --
+	{Q -- SpellName: ViktorPowerTransfer|ViktorQBuff, Delay: 0.25, My Buff Name: ViktorPowerTransferReturn|ViktorPowerTransfer}, 
+	{W -- SpellName: ViktorGravitonField, Delay: 0.25, Ememy Buff Name: viktorgravitonfieldstun|viktorgravitonfielddebuffslow|viktorgravitonfielddebuff}, 
+	{E -- SpellName: ViktorDeathRay, Delay: 0.5},
+	{R -- SpellName: ViktorChaosStorm, Delay: 0.25, My Buff Name: viktorchaosstormtimer, Enemy Buff Name: viktorexpirationtimer}
+	-- Type: Upgraded --
+	{Q -- SpellName: ViktorPowerTransfer|ViktorQBuff, Delay: 0.25, My Buff Name: ViktorPowerTransferReturn|ViktorPowerTransfer}, 
+	{W -- SpellName: ViktorGravitonField, Delay: 0.25, Ememy Buff Name: viktorgravitonfieldstun|viktorgravitonfielddebuffslow|viktorgravitonfielddebuff}, 
+	{E -- SpellName: ViktorDeathRay, Delay: 0.5},
+	{R -- SpellName: ViktorChaosStorm, Delay: 0.25, My Buff Name: viktorchaosstormtimer, Enemy Buff Name: viktorexpirationtimer}
+],
+Xayah:	
+[
+	{Passive -- My Buff Name: XayahPassiveActive},
+	{Q -- SpellName: XayahQ, Delay: 0.25}, 
+	{W -- SpellName: XayahW, Delay: 0.25, My Buff Name: XayahW|XayahWHaste},
+	{E -- SpellName: XayahE, Delay: 0, Ememy Buff Name: XayahE, Name: XayahEMissile|XayahEMissileSFX}, 
+	{R -- SpellName: XayahR, Delay: 0.5, My Buff Name: XayahR|xayahfeathertracker}
+],
+Xerath:	
+[
+	{Q -- SpellName: XerathArcanopulseChargeUp|XerathArcanopulse2, Delay: 0.005|0, My Buff Name: XerathArcanopulseChargeUp|xerathqvfx|xerathqsoundbuff}, 
+	{W -- SpellName: XerathArcaneBarrage2, Delay: 0.25, My Buff Name: xerathascended2onhit, Ememy Buff Name: xerathwslow},
+	{E -- SpellName: XerathMageSpear, Delay: 0.25},
+	{R -- SpellName: XerathLocusOfPower2|XerathLocusPulse, Delay: 0|0.01, My Buff Name: xerathrshots}
+],
+XinZhao:	
+[
+	{Q -- SpellName: XinZhaoQ|XinZhaoQThrust1|XinZhaoQThrust2|XinZhaoQThrust3, Delay: 0.25|0.18|0.21|0.22, My Buff Name: XinZhaoQ, Ememy Buff Name: XinZhaoQKnockUp}, 
+	{W -- SpellName: XinZhaoW|XinZhaoWMissile, Delay: 0},
+	{E -- SpellName: XinZhaoE, Delay: 0, My Buff Name: XinZhaoEBattleCry}, 
+	{R -- SpellName: XinZhaoR, Delay: 0.325, My Buff Name: XinZhaoRRangedImmunity, Ememy Buff Name: xinzhaorknockback}
+],
+Yasuo:	
+[
+	{Passive -- My Buff Name: yasuopassivecounter|YasuoPassiveShield}
+	{Q -- SpellName: YasuoQ1|YasuoQ1Wrapper|YasuoQE1|YasuoQ2|YasuoQ2Wrapper|YasuoQE2|YasuoQ3|YasuoQ3Wrapper|YasuoQE3, Delay: 0.33|0.28|0|0.33|0.28|0|0.33|0.28|0, My Buff Name: YasuoQ1|YasuoQ2, Ememy Buff Name: YasuoQ3Mis}, 
+	{W -- SpellName: YasuoW, Delay: 0.01},
+	{E -- SpellName: YasuoEDash, Delay: 0.25, My Buff Name: YasuoDashScalar, Ememy Buff Name: YasuoE}, 
+	{R -- SpellName: YasuoR, Delay: 0.25, My Buff Name: yasuoarmorpen}
+],
+Yone:	
+[
+	{Q -- SpellName: YoneQ|YoneQ3, Delay: 0.317|0.5, Speed: 1200, My Buff Name: YoneQ|yoneq3ready, Ememy Buff Name: yoneq3knockup, Range: 450}, 
+	{W -- SpellName: YoneW, Delay: 0.45, Range: 700, My Buff Name: YoneW},
+	{E -- SpellName: YoneE, Delay: 0.5, Ememy Buff Name: yoneedeathmark}, 
+	{R -- SpellName: YoneR, Delay: 0.75, My Buff Name: YoneR, Ememy Buff Name: yonerknockup, Range: 1000, Width: 225}
+],

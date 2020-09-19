@@ -1,0 +1,161 @@
+Hero Name: Leona, Spell Name: LeonaZenithBlade, Spell Slot: E
+Hero Name: Leona, Spell Name: LeonaZenithBladeMissile, Spell Slot: Unknown
+Hero Name: Leona, Enemy Buff Name: blackcleaver
+Hero Name: Leona, Spell Name: LeonaSolarBarrier, Spell Slot: W
+Hero Name: Leona, Enemy Buff Name: LeonaSolarBarrier
+Hero Name: Leona, Spell Name: LeonaShieldOfDaybreak, Spell Slot: Q
+Hero Name: Leona, Spell Name: , Spell Slot: R
+Hero Name: Galio, Enemy Buff Name: galiopassivebuff
+Hero Name: Galio, Spell Name: GalioQ, Spell Slot: Q
+Hero Name: Galio, Spell Name: GalioQSuper, Spell Slot: Unknown
+Hero Name: Galio, Enemy Buff Name: galiowpassivecd
+Hero Name: Galio, Spell Name: GalioW, Spell Slot: W
+Hero Name: Galio, Enemy Buff Name: galiowbuff
+Hero Name: Galio, Enemy Buff Name: GalioW
+Hero Name: Galio, Spell Name: GalioW2, Spell Slot: Unknown
+Hero Name: Galio, Spell Name: GalioE, Spell Slot: E
+Hero Name: Galio, Spell Name: , Spell Slot: R
+Hero Name: Taric, Spell Name: TaricQ, Spell Slot: Q
+Hero Name: Taric, Spell Name: TaricW, Spell Slot: W
+Hero Name: Taric, Spell Name: TaricPassiveAttack, Spell Slot: Unknown
+Hero Name: Taric, Spell Name: TaricPassiveAttack2, Spell Slot: Unknown
+Hero Name: Taric, Spell Name: TaricE, Spell Slot: E
+Hero Name: Taric, Enemy Buff Name: taricpassiveattackparticle
+Hero Name: Taric, Spell Name: , Spell Slot: R
+Hero Name: Lux, Spell Name: LuxLightBinding, Spell Slot: Q
+Hero Name: Lux, Spell Name: LuxLightStrikeKugel, Spell Slot: E
+Hero Name: Lux, Enemy Buff Name: LuxLightStrikeKugel
+Hero Name: Lux, Spell Name: LuxPrismaticWaveMissile, Spell Slot: Unknown
+Hero Name: Lux, Enemy Buff Name: luxprismaticwaveshield
+Hero Name: Lux, Spell Name: LuxPrismaticWave, Spell Slot: W
+Hero Name: Lux, Spell Name: LuxMaliceCannon, Spell Slot: R
+Hero Name: Zilean, Spell Name: TimeWarp, Spell Slot: E
+Hero Name: Zilean, Enemy Buff Name: SRChampionBuffDeathSpeed
+Hero Name: Zilean, Enemy Buff Name: TimeWarp
+Hero Name: Zilean, Spell Name: ZileanQMissile, Spell Slot: Unknown
+Hero Name: Zilean, Spell Name: ZileanQ, Spell Slot: Q
+Hero Name: Zilean, Spell Name: ZileanQAttachAudio, Spell Slot: Unknown
+Hero Name: Zilean, Spell Name: ZileanQAttachMissile, Spell Slot: Unknown
+Hero Name: Zilean, Spell Name: ZileanW, Spell Slot: W
+Hero Name: Zilean, Spell Name: Rewind, Spell Slot: Unknown
+Hero Name: Zilean, Enemy Buff Name: zileanqdetonateaudio
+Hero Name: Zilean, Spell Name: , Spell Slot: R
+Hero Name: Zyra, Spell Name: ZyraQ, Spell Slot: Q
+Hero Name: Zyra, Spell Name: ZyraW, Spell Slot: W
+Hero Name: Zyra, Spell Name: ZyraE, Spell Slot: E
+Hero Name: ZyraGraspingPlant, Enemy Buff Name: ZyraEPlant
+Hero Name: Zyra, Spell Name: ZyraR, Spell Slot: R
+Hero Name: Thresh, Spell Name: ThreshQ|ThreshQInternal, Spell Slot: Q
+Hero Name: Thresh, Spell Name: ThreshW, Spell Slot: W
+Hero Name: Thresh, Spell Name: ThreshE, Spell Slot: E
+Hero Name: Thresh, Spell Name: ThreshRPenta, Spell Slot: R
+Hero Name: Tristana, Enemy Buff Name: TristanaE
+Hero Name: Sett, Enemy Buff Name: SettQ
+Hero Name: Sett, Enemy Buff Name: SettQMSBuff
+Hero Name: Sett, Enemy Buff Name: SettWShield
+Hero Name: Sett, Spell Name: SettR, Spell Slot: R
+Hero Name: Sett, Spell Name: SettE, Spell Slot: E
+Hero Name: Sett, Spell Name: SettW, Spell Slot: W
+Hero Name: Sett, Spell Name: SettQ, Spell Slot: Q
+Hero Name: Sett, Spell Name: SettQAttack2, Spell Slot: Unknown
+Hero Name: Nunu, Spell Name: NunuPBloodBoilMissile, Spell Slot: 54
+Hero Name: Nunu, Spell Name: NunuQ, Spell Slot: Q
+Hero Name: Nunu, Spell Name: NunuW, Spell Slot: W
+Hero Name: Nunu, Spell Name: NunuWCircleMissile2, Spell Slot: 58
+Hero Name: Nunu, Spell Name: NunuW_Recast, Spell Slot: W
+Hero Name: Nunu, Spell Name: NunuE, Spell Slot: E
+Hero Name: Nunu, Spell Name: NunuESnowballBurstFire, Spell Slot: E
+Hero Name: Nunu, Spell Name: NunuESnowballMissile, Spell Slot: 56
+Hero Name: Nunu, Spell Name: NunuR, Spell Slot: R
+Hero Name: Nunu, Spell Name: NunuR_Recast, Spell Slot: R
+Hero Name: Irelia, Spell Name: IreliaQ, Spell Slot: Q
+Hero Name: Irelia, Spell Name: IreliaW, Spell Slot: W
+Hero Name: Irelia, Spell Name: IreliaW2, Spell Slot: 48
+Hero Name: Irelia, Spell Name: IreliaE, Spell Slot: E
+Hero Name: Irelia, Spell Name: IreliaEMissile, Spell Slot: 50
+Hero Name: Irelia, Spell Name: IreliaEParticleMissile, Spell Slot: 52
+Hero Name: Irelia, Spell Name: IreliaESecondary, Spell Slot: 48
+Hero Name: Irelia, Spell Name: IreliaE2, Spell Slot: E
+Hero Name: Irelia, Spell Name: IreliaR, Spell Slot: R
+Hero Name: Azir, Spell Name: AzirQ, Spell Slot: 52
+Hero Name: Azir, Spell Name: AzirQWrapper, Spell Slot: Q
+Hero Name: Azir, Spell Name: AzirW, Spell Slot: W
+Hero Name: Azir, Spell Name: AzirE, Spell Slot: 46
+Hero Name: Azir, Spell Name: AzirEWrapper, Spell Slot: E
+Hero Name: Azir, Spell Name: AzirR, Spell Slot: R
+Hero Name: Jayce, Spell Name: JayceToTheSkies, Spell Slot: Q
+Hero Name: Jayce, Spell Name: JayceShockBlast, Spell Slot: Q
+Hero Name: Jayce, Spell Name: JayceStaticField, Spell Slot: W
+Hero Name: Jayce, Spell Name: JayceHyperCharge, Spell Slot: W
+Hero Name: Jayce, Spell Name: JayceThunderingBlow, Spell Slot: E
+Hero Name: Jayce, Spell Name: JayceAccelerationGate, Spell Slot: E
+Hero Name: Jayce, Spell Name: JayceStanceGtH, Spell Slot: R
+Hero Name: Jayce, Spell Name: JayceStanceHtG, Spell Slot: R
+Hero Name: Orianna, Spell Name: OrianaIzunaCommand, Spell Slot: Q
+Hero Name: Orianna, Spell Name: OrianaDissonanceCommand, Spell Slot: W
+Hero Name: Orianna, Spell Name: OrianaRedactCommand, Spell Slot: E
+Hero Name: Orianna, Spell Name: OrianaDetonateCommand, Spell Slot: R
+Hero Name: Singed, Spell Name: PoisonTrail, Spell Slot: Q
+Hero Name: Singed, Spell Name: MegaAdhesive, Spell Slot: W
+Hero Name: Singed, Spell Name: Fling, Spell Slot: E
+Hero Name: Singed, Spell Name: InsanityPotion, Spell Slot: R
+Hero Name: Illaoi, Spell Name: IllaoiQ, Spell Slot: Q
+Hero Name: Illaoi, Spell Name: IllaoiW, Spell Slot: W
+Hero Name: Illaoi, Spell Name: IllaoiE, Spell Slot: E
+Hero Name: Illaoi, Spell Name: IllaoiR, Spell Slot: R
+Hero Name: Kaisa, Spell Name: KaisaQ, Spell Slot: Q
+Hero Name: Kaisa, Spell Name: KaisaW, Spell Slot: W
+Hero Name: Kaisa, Spell Name: KaisaE, Spell Slot: E
+Hero Name: Kaisa, Spell Name: KaisaR, Spell Slot: R
+Hero Name: Ezreal, Spell Name: EzrealQ, Spell Slot: Q
+Hero Name: Ezreal, Spell Name: EzrealW, Spell Slot: W
+Hero Name: Ezreal, Spell Name: EzrealE, Spell Slot: E
+Hero Name: Ezreal, Spell Name: EzrealR, Spell Slot: R
+Hero Name: Nidalee, Spell Name: JavelinToss, Spell Slot: Q
+Hero Name: Nidalee, Spell Name: Takedown, Spell Slot: Q
+Hero Name: Nidalee, Spell Name: Bushwhack, Spell Slot: W
+Hero Name: Nidalee, Spell Name: Pounce, Spell Slot: W
+Hero Name: Nidalee, Spell Name: Swipe, Spell Slot: E
+Hero Name: Nidalee, Spell Name: PrimalSurge, Spell Slot: E
+Hero Name: Nidalee, Spell Name: AspectOfTheCougar, Spell Slot: R
+Hero Name: Ornn, Spell Name: OrnnQ, Spell Slot: Q
+Hero Name: Ornn, Spell Name: OrnnW, Spell Slot: W
+Hero Name: Ornn, Spell Name: OrnnE, Spell Slot: E
+Hero Name: Ornn, Spell Name: OrnnR, Spell Slot: R
+Hero Name: Ornn, Spell Name: OrnnRWave, Spell Slot: 53
+Hero Name: Ornn, Spell Name: OrnnRCharge, Spell Slot: R
+Hero Name: Ornn, Spell Name: OrnnRWave2, Spell Slot: 53
+Hero Name: Caitlyn, Spell Name: CaitlynPiltoverPeacemaker, Spell Slot: Q
+Hero Name: Caitlyn, Spell Name: CaitlynYordleTrap, Spell Slot: W
+Hero Name: Caitlyn, Spell Name: CaitlynEntrapment, Spell Slot: E
+Hero Name: Caitlyn, Spell Name: CaitlynAceintheHole, Spell Slot: R
+Hero Name: Lucian, Spell Name: LucianQ, Spell Slot: Q
+Hero Name: Lucian, Spell Name: LucianW, Spell Slot: W
+Hero Name: Lucian, Spell Name: LucianE, Spell Slot: E
+Hero Name: Lucian, Spell Name: LucianR, Spell Slot: R
+Hero Name: Velkoz, Spell Name: VelkozQ|VelkozQSplitActivate, Spell Slot: Q
+Hero Name: Velkoz, Spell Name: VelkozW, Spell Slot: W
+Hero Name: Velkoz, Spell Name: VelkozE, Spell Slot: E
+Hero Name: Velkoz, Spell Name: VelkozR, Spell Slot: R
+Hero Name: Sivir, Spell Name: SivirQ, Spell Slot: Q
+Hero Name: Sivir, Spell Name: SivirQMissile, Spell Slot: 46
+Hero Name: Sivir, Spell Name: SivirW, Spell Slot: W
+Hero Name: Sivir, Spell Name: SivirE, Spell Slot: E
+Hero Name: Sivir, Spell Name: SivirR, Spell Slot: R
+Hero Name: Sona, Spell Name: SonaQ, Spell Slot: Q
+Hero Name: Sona, Spell Name: SonaQMissile, Spell Slot: 45
+Hero Name: Sona, Spell Name: SonaW, Spell Slot: W
+Hero Name: Sona, Spell Name: SonaWMissile, Spell Slot: 46
+Hero Name: Sona, Spell Name: SonaE, Spell Slot: E
+Hero Name: Sona, Spell Name: SonaR, Spell Slot: R
+Hero Name: Nautilus, Spell Name: NautilusAnchorDrag, Spell Slot: Q
+Hero Name: Nautilus, Spell Name: NautilusPiercingGaze, Spell Slot: W
+Hero Name: Nautilus, Spell Name: NautilusSplashZone, Spell Slot: E
+Hero Name: Nautilus, Spell Name: NautilusGrandLine, Spell Slot: R
+Hero Name: Nautilus, Enemy Buff Name: nautilusanchordragglobalroot
+Hero Name: Nautilus, Enemy Buff Name: nautilusanchordragroot
+Hero Name: Nautilus, Enemy Buff Name: nautiluspassiveroot
+Hero Name: Twitch, Spell Name: TwitchHideInShadows, Spell Slot: Q
+Hero Name: Twitch, Spell Name: TwitchVenomCask, Spell Slot: W
+Hero Name: Twitch, Spell Name: TwitchExpunge, Spell Slot: E
+Hero Name: Twitch, Spell Name: TwitchFullAutomatic, Spell Slot: R
